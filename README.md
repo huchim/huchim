@@ -8,7 +8,7 @@ I'm a **software developer** living in **Yucatán, México** and working in [CFE
 
 I've been _coding_ since 2000 year :sparkles:
 
-My coding experience was with [VB](https://en.wikipedia.org/wiki/Visual_Basic) and [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro) and I really enjoyed these times.
+My first coding experience was with [VB](https://en.wikipedia.org/wiki/Visual_Basic) and [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro) and I really enjoyed these times.
 
 Most of the time I develop using many languages in backend and frontend
 
